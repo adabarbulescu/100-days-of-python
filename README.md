@@ -1,24 +1,22 @@
 100 Days of Code: The Complete Python Pro Bootcamp
 ==================================================
 
-[![100-days-of-code](https://user-images.githubusercontent.com/98851253/155425637-9ac7250e-52a3-429a-a679-ac619f5ff6ea.gif)](https://user-images.githubusercontent.com/98851253/155425637-9ac7250e-52a3-429a-a679-ac619f5ff6ea.gif)
-
-Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 [](https://github.com/phillipai/100-days-of-code-python#-beginner)🔰 Beginner
 -----------------------------------------------------------------------------
 
--   [Day 1:](https://github.com/phillipai/100-days-of-code-python/tree/main/day01) Working with Variables in Python to Manage Data
--   [Day 2:](https://github.com/phillipai/100-days-of-code-python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
--   [Day 3:](https://github.com/phillipai/100-days-of-code-python/tree/main/day03) Control Flow and Logical Operators
--   [Day 4:](https://github.com/phillipai/100-days-of-code-python/tree/main/day04) Randomisation and Python Lists
--   [Day 5:](https://github.com/phillipai/100-days-of-code-python/tree/main/day05) Python Loops
--   [Day 6:](https://github.com/phillipai/100-days-of-code-python/tree/main/day06) Python Functions & Karel
--   [Day 7:](https://github.com/phillipai/100-days-of-code-python/tree/main/day07) Hangman
--   [Day 8:](https://github.com/phillipai/100-days-of-code-python/tree/main/day08) Function Parameters & Caesar Cipher
--   [Day 9:](https://github.com/phillipai/100-days-of-code-python/tree/main/day09) Dictionaries, Nesting and the Secret Auction
--   [Day 10:](https://github.com/phillipai/100-days-of-code-python/tree/main/day10) Functions with Outputs
--   [Day 11:](https://github.com/phillipai/100-days-of-code-python/tree/main/day11) The Blackjack Capstone Project
+-   [Day 1:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%201) Working with Variables in Python to Manage Data
+-   [Day 2:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%202) Understanding Data Types and How to Manipulate Strings
+-   [Day 3:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%203) Control Flow and Logical Operators
+-   [Day 4:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%204) Randomisation and Python Lists
+-   [Day 5:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%205) Python Loops
+-   [Day 6:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%206) Python Functions & Karel
+-   [Day 7:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%207) Hangman
+-   [Day 8:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%208) Function Parameters & Caesar Cipher
+-   [Day 9:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%209) Dictionaries, Nesting and the Secret Auction
+-   [Day 10:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%2010) Functions with Outputs
+-   [Day 11:](https://github.com/adabarbulescu/100-days-of-python/tree/main/day%2011) The Blackjack Capstone Project
+<!---
 -   [Day 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 -   [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 -   [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
@@ -176,3 +174,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete
 I'm completed in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy. Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better guidance than I was getting while "self-learning". While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the best of my abilities. I'll be using this repo as a way for myself to access them as, if and when I need them. 100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it: [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
 [![wallpaper](https://github.com/lenargasimov/100-days-of-python/raw/main/wallpaper.png)](https://github.com/lenargasimov/100-days-of-python/blob/main/wallpaper.png)
+-->
