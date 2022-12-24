@@ -19,6 +19,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete
 -   [Day 9:](https://github.com/phillipai/100-days-of-code-python/tree/main/day09) Dictionaries, Nesting and the Secret Auction
 -   [Day 10:](https://github.com/phillipai/100-days-of-code-python/tree/main/day10) Functions with Outputs
 -   [Day 11:](https://github.com/phillipai/100-days-of-code-python/tree/main/day11) The Blackjack Capstone Project
+<!---
 -   [Day 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 -   [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 -   [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
@@ -176,3 +177,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete
 I'm completed in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy. Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better guidance than I was getting while "self-learning". While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the best of my abilities. I'll be using this repo as a way for myself to access them as, if and when I need them. 100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it: [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
 [![wallpaper](https://github.com/lenargasimov/100-days-of-python/raw/main/wallpaper.png)](https://github.com/lenargasimov/100-days-of-python/blob/main/wallpaper.png)
+-->
